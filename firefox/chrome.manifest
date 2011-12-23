@@ -1,0 +1,3 @@
+content     flavicon    chrome/content/
+resource    flavicon    modules/
+overlay chrome://browser/content/browser.xul chrome://flavicon/content/flavicon.xul

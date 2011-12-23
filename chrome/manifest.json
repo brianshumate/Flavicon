@@ -1,0 +1,16 @@
+{
+  "name": "Flavicon",
+  "version": "0.2.6",
+  "description": "This tiny extension changes the favicon image to an alarming black and red skull when Flash objects are detected in the page. This is useful for when you don't want to disable Flash, but you'd like to be able to immediately spot an open tab that is producing sound, for example.",
+  "icons": { "128": "icon.png" },
+  "permissions": [
+    "tabs",
+    "http://*/*"
+  ],
+  "content_scripts": [
+      {
+        "matches": ["http://*/*"],
+        "js": ["flavicon.js"]
+      }
+  ]
+}
