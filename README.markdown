@@ -13,4 +13,4 @@ Seriously. That's all it does; so if you have some reason to not require a full-
 * The Firefox version does not yet work.
 * The Safari version is not yet under way.
 
-This project is based on the ideas of some cool folks on Twitter (thanks for the inspiration [@ohmybrain](http://tiwtter.com/ohmybrain) and [@juphoff](http://tiwtter.com/juphoff)), was quickly dusted together, and it mostly works; pull requests welcome! :)
+This project is based on the ideas of some cool folks on Twitter (thanks for the inspiration [@ohmybrain](http://twitter.com/ohmybrain) and [@juphoff](http://twitter.com/juphoff)), was quickly dusted together, and it mostly works; pull requests welcome! :)
